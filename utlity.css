@@ -1,0 +1,28 @@
+.center{
+    text-align: center;
+    margin: 16px 0px;
+    font-size: 50px;
+    color:rgb(15, 191, 235)
+}
+.mx-auto{
+    margin: auto;
+}
+.flex{
+display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+.item-center{
+    align-items: center;
+    justify-content: center;
+}
+.yellow{
+    background-color: #ff9800;
+}
+body{
+    background-image: url(/img/basic-black-and-white-calculator-ap38v4tgv731d8qn.jpg);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
